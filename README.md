@@ -1,1 +1,2 @@
 # Clothing-Store-Sales-Data-Analysis-using-MS-Excel
+- Created interactive dashboard to track and analyze sales data vi. - Implemented targeted marketing campaigns for specific customer segments and channels vii. - Focused on top 5 contributing states and identified age group of women customers viii. - Leveraged Amazon, Flipkart, and Myntra as key marketing channels ix. -The projects aimed to improve sales by analyzing data, identifying trends, and implementing targeted strategies for specific customer segments and channels
